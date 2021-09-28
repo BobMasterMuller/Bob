@@ -1,0 +1,5 @@
+Credentials cache: API:BFF17822-545D-4EC4-BED5-36B74ECA528D
+        Principal: rschiopp@42ROMA.IT
+
+  Issued                Expires               Principal
+Sep 27 17:13:28 2021  Sep 28 03:13:28 2021  krbtgt/42ROMA.IT@42ROMA.IT
